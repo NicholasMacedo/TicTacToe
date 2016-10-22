@@ -1,7 +1,6 @@
 ! ======================================= !
 ! A PROGRAM TO PLAY TIC-TAC-TOE           !
-! Written By: Michael Worth               !
-! Edited By: Nicholas Macedo - Van Horne  !
+! By: Nicholas Macedo                     !
 ! ======================================= !
 PROGRAM TICTACTOE
       
